@@ -1,4 +1,5 @@
-theme = "gruvbox"
+# theme = "gruvbox"
+theme = "catppuccin_mocha"
 
 [editor]
 line-number = "relative"
